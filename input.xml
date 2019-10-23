@@ -1,0 +1,31 @@
+<workers>
+    <worker>
+        <surname>Johnson</surname>
+        <position>teacher</position>
+        <salary>400</salary>
+    </worker>
+
+    <worker>
+        <surname>Obama</surname>
+        <position>cook</position>
+        <salary>550</salary>
+    </worker>
+
+    <worker>
+        <surname>Trump</surname>
+        <position>teacher</position>
+        <salary>700</salary>
+    </worker>
+
+    <worker>
+        <surname>Bush</surname>
+        <position>cleaningman</position>
+        <salary>350</salary>
+    </worker>
+
+    <worker>
+        <surname>Obama</surname>
+        <position>teacher</position>
+        <salary>1000</salary>
+    </worker>
+</workers>
